@@ -1,7 +1,9 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Welcome to my blog - HelloApple
 
-![Image of fast.ai logo](images/logo.png)
+* 这是一个无需列表
+> 这是一个引用
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+```c
+// 这是一段代码块
+print("Hello World")
+```
